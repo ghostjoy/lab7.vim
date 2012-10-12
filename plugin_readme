@@ -1,0 +1,21 @@
+patheogrn     - 管理plugin的plugin
+fugitive      - git wrapper, 操縱git
+ack           - 可以在程式裡面使用 grep 的功能。它將符合 pattern 列在 split window, 並且讓你可以方便地 open, preview, open in new tab
+ctrlp         - 快速找到檔案的好幫手; ctrl + p 啟動 ctrl + g 關閉; 啟動中ctrl + f 可切換搜尋模式 (File、buffer、MRU)
+delimitMate   - 自動給予成對的括號、引號等
+matchit       - 擴展%匹配符號的範圍，並可根據副檔名自動匹配
+easymotion    - 提供簡單的移動方法，使用<leader><leader>
+NERDcommenter - 提供自動註解
+NERDtree      - 類似檔案總管
+powerline     - 漂亮狀態列
+supertab      - 使用tab自動完成
+tagbar        - 師出taglist, 但是在分類上更棒，可以在檔案、函數之間跳來跳去，需安裝ctag http://www.24m.org/wordpress/?p=56
+L9            - autocompl所需librrary
+autocompl     - 自動完成的增強選單
+tlib          - tagbar所需之library
+addon_mw_util - nerdtree 所需之library
+vim-css-color - 直接在vim裡顯示色碼所代表的顏色
+vim-indent-object - 如果你寫的程式語言是用大括號把程式碼包起來的，只要按vi{就可以把大括號裡的東西全部選起來，但如果遇到像ruby或是python這種不需要大括號的，就可以用上他
+    vii 選取相同縮排層級的字
+    vai 同上，但會連同上一層級也一併選取
+
